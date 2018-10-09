@@ -35,8 +35,8 @@
 		<div class="menudiv">
 			<nav>
 				<ul class="menu">
-					<li><a href="#"> <span class="icono izquierda glyphicon glyphicon-user"></span> Nosostros</a></li>
-					<li><a href="#"> <span class="icono izquierda glyphicon glyphicon-envelope"></span> La carta</a></li>
+					<li><a href="#"> <span class="icono izquierda glyphicon glyphicon-user"></span> Nosostros</a>
+					</li>
 					<li class="submenu">
 						<a href="#"> <span class="icono izquierda glyphicon glyphicon-pencil"></span> La barra
 						<span class="icono derecha glyphicon glyphicon-chevron-down"></span></a>
